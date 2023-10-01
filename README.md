@@ -7,7 +7,6 @@ I work as a software engineer, specializing in developing secure, scalable, and 
 * 🌍 Location: Ontario, Canada
 * 🖥️ See my portfolio at [https://mmanueldev.com](http://mmanueldev.com)
 * ✉️  You can contact me at [melvinlomanuel@gmail.com](mailto:melvinlomanuel@gmail.com)
-* 🤝 I'm open to work for a company to develop secure, scalable, and innovative user-friendly projects
 * 🚀 Currently focused on these technology stacks:
   
     .Net 🎯,
